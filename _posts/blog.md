@@ -12,8 +12,7 @@ One of the key benefits of Docker is its ability to eliminate the "works on my m
 ### Prerequisites
 Before we begin, ensure you have the following prerequisites:
 - Docker installed on your machine so for that download docker desktop
-- ![image](https://github.com/Milan963/Milan963.github.io/assets/123493818/59d7426f-2ab7-4e33-84f8-485456ad5d6b
-)
+
 
 - Basic understanding of Docker concepts 
 - Knowledge of your application's frontend and backend technologies through docker documents: 
