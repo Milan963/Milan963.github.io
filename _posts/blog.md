@@ -12,12 +12,12 @@ One of the key benefits of Docker is its ability to eliminate the "works on my m
 ### Prerequisites
 Before we begin, ensure you have the following prerequisites:
 - Docker installed on your machine so for that download docker desktop
-- ![image](https://github.com/Aaryan33/aaryan33.github.io/assets/97274994/b9fb5247-b4af-4291-b4ca-81b59456071b
+- ![image](https://github.com/Milan963/Milan963.github.io/assets/123493818/cedb948f-9e6f-43e7-be62-f766672ba6ec
 )
 
 - Basic understanding of Docker concepts 
 - Knowledge of your application's frontend and backend technologies through docker documents: 
-![Screenshot 2024-04-24 012425](https://github.com/Aaryan33/aaryan33.github.io/assets/97274994/01bb8642-82f8-4982-b470-fdf555026c6b
+![Screenshot 2024-04-24 012425](https://github.com/Milan963/Milan963.github.io/assets/123493818/5773ad26-50cc-4a8f-b2d5-833e5d251c04
 )
 
 
@@ -49,7 +49,7 @@ Create a Dockerfile for the frontend application (assuming it's built with React
 ### Step 4: Backend Dockerfile
 Create a similar Dockerfile for the backend application.
 
-![Screenshot 2024-04-23 235210](https://github.com/Aaryan33/aaryan33.github.io/assets/97274994/9b9f6949-b328-4c66-9a35-5fd0acd007e8
+![Screenshot 2024-04-23 235210](https://github.com/Milan963/Milan963.github.io/assets/123493818/b473eecc-788e-44ba-a6d6-1f80e36b5844
 )
 
 
@@ -67,8 +67,9 @@ Building the Frontend Image:
 
 Building the Backend Image:
 
-![Screenshot 2024-04-23 235210](https://github.com/Aaryan33/aaryan33.github.io/assets/97274994/9b9f6949-b328-4c66-9a35-5fd0acd007e8
+![Screenshot 2024-04-23 235210](https://github.com/Milan963/Milan963.github.io/assets/123493818/b473eecc-788e-44ba-a6d6-1f80e36b5844
 )
+
 
 
 
@@ -86,7 +87,7 @@ Creating a database and tables inside the mysql container
  Then you will be asked for password which is  `your_password`. 
  After that enter the following SQL queries in order to create a new Database.
 
-![Screenshot 2024-04-23 235251](https://github.com/Aaryan33/aaryan33.github.io/assets/97274994/fb874137-577e-4306-a02d-3cf70f9bfda7
+![Screenshot 2024-04-23 235251](https://github.com/Milan963/Milan963.github.io/assets/123493818/68f8ab9c-fcf5-4e61-882e-ee8818b8d052
 )
 
 
